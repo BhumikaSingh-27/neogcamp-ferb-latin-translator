@@ -26,6 +26,9 @@ img {
 textarea {
     border-radius: 0.5rem;
     padding: 1rem;
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 1rem;
 }
 
 button {
@@ -36,20 +39,23 @@ button {
     font-size: larger;
     font-family: 'Poor Story', cursive;
     font-weight: bold;
-    
+
 }
-button:hover{
+
+button:hover {
     background-color: black;
     color: var(--primary-color);
 }
 
 div {
     border: 1px solid black;
-    height: 10rem;
-    width: 29rem;
-    margin-left: 500px;
+    height: 7rem;
+    width: 31rem;
+    display: block;
+    margin: auto;
     border-radius: 0.5rem;
     padding: 1rem;
+    font-size: 1.2rem;
 }
 
 footer {
