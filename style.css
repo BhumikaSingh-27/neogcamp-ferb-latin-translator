@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Nunito+Sans:wght@300;700&family=Poor+Story&family=Prompt:ital,wght@0,400;1,300&family=Saira+Extra+Condensed:wght@300&family=Stick+No+Bills:wght@300;600&display=swap');
+
+body {
+    display: block;
+    margin: 0px;
+    font-family: 'Poor Story', cursive;
+    text-align: center;
+}
+
+:root {
+    --primary-color: #fdba74;
+}
+
+h1 {
+    font-size: 3rem;
+    background-color: var(--primary-color);
+    margin: 0px;
+    padding: 2rem 1rem;
+}
+
+img {
+    margin-top: 1rem;
+    max-width: 400px;
+}
+
+textarea {
+    border-radius: 0.5rem;
+    padding: 1rem;
+}
+
+button {
+    border: 1px solid var(--primary-color);
+    border-radius: 0.5rem;
+    padding: 1rem 2rem;
+    background-color: var(--primary-color);
+    font-size: larger;
+    font-family: 'Poor Story', cursive;
+    font-weight: bold;
+    
+}
+button:hover{
+    background-color: black;
+    color: var(--primary-color);
+}
+
+div {
+    border: 1px solid black;
+    height: 10rem;
+    width: 29rem;
+    margin-left: 500px;
+    border-radius: 0.5rem;
+    padding: 1rem;
+}
+
+footer {
+    background-color: var(--primary-color);
+    font-size: 1.5rem;
+    padding: 1rem 2rem;
+    text-align: center;
+}
