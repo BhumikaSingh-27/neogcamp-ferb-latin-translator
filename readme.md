@@ -9,3 +9,4 @@ This is an app which converts from English to Ferb Latin. Phineas and Ferb is a 
 - _Javascript_
 - _Postman_
 
+[Check now!]("https://neogcamp-ferb-latin-translator.netlify.app/ "Ferb Speaks")
